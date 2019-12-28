@@ -4,4 +4,4 @@ This repository contains a small project for the graduate-level course at the Un
 
 The original requirements for this project are provided in `project_requirement.pdf`.
 
-My project report is the file `report.html`.
+My project report can be viewed in the files `report.pdf` and `report.html`.
