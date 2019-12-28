@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Suicide Rate Analysis
 
-You can use the [editor on GitHub](https://github.com/xiaoyu-sun/STAT-374-Nonparametric-Inference/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains a small project for the graduate-level course at the University of Chicago, STAT 37400 Nonparametric Inference. In this project, I analyzed a dataset of the annual suicide rates of 101 countries with their socio-economic information from 1985 to 2016. The programming language is __R__.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The original requirements for this project are provided in `project_requirement.pdf`.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaoyu-sun/STAT-374-Nonparametric-Inference/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My project report is the file `report.html`.
